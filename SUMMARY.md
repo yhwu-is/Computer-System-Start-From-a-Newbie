@@ -2,7 +2,10 @@
 
 * [计算机系统——从小白学起](README.md)
 * [Part0 初识计算机系统](part0-chu-shi-ji-suan-ji-xi-tong/README.md)
-  * [Chapter01 初识计算机系统](part0-chu-shi-ji-suan-ji-xi-tong/chapter01-chu-shi-ji-suan-ji-xi-tong.md)
+  * [Chapter01 初识计算机系统](part0-chu-shi-ji-suan-ji-xi-tong/chapter01-chu-shi-ji-suan-ji-xi-tong/README.md)
+    * [1.1  从你的电脑讲起](part0-chu-shi-ji-suan-ji-xi-tong/chapter01-chu-shi-ji-suan-ji-xi-tong/1.1-cong-ni-de-dian-nao-jiang-qi.md)
+    * [1.2  历史的观点看计算机系统](part0-chu-shi-ji-suan-ji-xi-tong/chapter01-chu-shi-ji-suan-ji-xi-tong/1.2-li-shi-de-guan-dian-kan-ji-suan-ji-xi-tong.md)
+    * [1.3  你的程序是如何运行的](part0-chu-shi-ji-suan-ji-xi-tong/chapter01-chu-shi-ji-suan-ji-xi-tong/1.3-ni-de-cheng-xu-shi-ru-he-yun-hang-de.md)
 * [Part1 逻辑与二进制基础](part1-luo-ji-yu-er-jin-zhi-ji-chu/README.md)
   * [Chapter02 计算机设计基础——二进制](part1-luo-ji-yu-er-jin-zhi-ji-chu/chapter02-ji-suan-ji-she-ji-ji-chu-er-jin-zhi.md)
   * [Chapter03 基于二进制的信息存储与表示](part1-luo-ji-yu-er-jin-zhi-ji-chu/chapter03-ji-yu-er-jin-zhi-de-xin-xi-cun-chu-yu-biao-shi.md)
