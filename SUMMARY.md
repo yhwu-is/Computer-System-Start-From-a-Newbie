@@ -1,7 +1,9 @@
-* [Part0 初识计算机系统](https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie/tree/main/Part0 初识计算机系统/1-1.md)
-    * [Chapter01 初识计算机系统](https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie/blob/main/Part0%20%E5%88%9D%E8%AF%86%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/Chapter01%20%E5%88%9D%E8%AF%86%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/1-1.md)
-* [Part1 逻辑与二进制基础](https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie/blob/main/Part1%20%E9%80%BB%E8%BE%91%E4%B8%8E%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%9F%BA%E7%A1%80/1-1.md)
-    * [Chapter02 计算机设计基础——二进制](https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie/blob/main/Part1%20%E9%80%BB%E8%BE%91%E4%B8%8E%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%9F%BA%E7%A1%80/Chapter02%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80%E2%80%94%E2%80%94%E4%BA%8C%E8%BF%9B%E5%88%B6/1-1.md)
+# Summary
+
+* [Part0 初识计算机系统]()
+    * [Chapter01 初识计算机系统]()
+* [Part1 逻辑与二进制基础]()
+    * [Chapter02 计算机设计基础——二进制]()
     * [Chapter03 基于二进制的信息存储与表示]()
     * [Chapter04 基于二进制的指令设计]()
     * [Chapter05 二进制硬件设计基础]()
