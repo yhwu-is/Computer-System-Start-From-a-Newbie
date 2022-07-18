@@ -38,7 +38,7 @@
 * [Part5 计算机系统架构的进一步优化](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/README.md)
   * [Chapter19 更大、更快的存储层次设计](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter19-geng-da-geng-kuai-de-cun-chu-ceng-ci-she-ji.md)
   * [Chapter20 指令级并行技术](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu.md)
-    * [20.1 ILP基本概念](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.1-ilp-ji-ben-gai-nian.md)
+    * [20.1 ILP基本概念与简单认识](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.1-ilp-ji-ben-gai-nian-yu-jian-dan-ren-shi.md)
     * [20.2 简单的静态调度：编译器调度技术](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.2-jian-dan-de-jing-tai-tiao-du-bian-yi-qi-tiao-du-ji-shu.md)
     * [20.3 动态调度的三种方法](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.3-dong-tai-tiao-du-de-san-zhong-fang-fa.md)
     * [20.4 高级ILP技术](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.4-gao-ji-ilp-ji-shu.md)
