@@ -12,8 +12,8 @@ Hello，欢迎来到计算机系统——从小白学起！这是一本致力于
 
 ### 项目协作
 
-非常欢迎大家参与到这一项目的构建中。由于作者精力与能力有限，很难高质量地完成本书的所有内容，因此非常需要更多对这一项目有热情的人参与进来。
+非常欢迎大家参与到这一项目的构建中。由于作者精力与能力有限，很难在有限时间内高质量地完成本书的所有内容，因此非常需要更多对这一项目有热情的人参与进来。
 
-本项目目前基于gitbook平台构建，在github上有同步的仓库[https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie](https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie)欢迎各位评论，也欢迎加入我们。
+本项目目前基于gitbook平台构建，在github上有同步的仓库[https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie](https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie)欢迎各位评论提出建议，也欢迎为本项目做出贡献。github仓库中已经有各个章节的文件夹，只需对其中对应的的md文件进行修改提交即可。
 
 ### 项目目标
