@@ -42,6 +42,7 @@
     * [20.2 简单的静态调度：编译器调度技术](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.2-jian-dan-de-jing-tai-tiao-du-bian-yi-qi-tiao-du-ji-shu.md)
     * [20.3 动态调度的三种方法](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.3-dong-tai-tiao-du-de-san-zhong-fang-fa.md)
     * [20.4 高级ILP技术](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.4-gao-ji-ilp-ji-shu.md)
+    * [20.5 ILP的局限性](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter20-zhi-ling-ji-bing-hang-ji-shu/20.5-ilp-de-ju-xian-xing.md)
   * [Chapter21 数据级并行技术](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter21-shu-ju-ji-bing-hang-ji-shu.md)
   * [Chapter22 线程级并行技术](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter22-xian-cheng-ji-bing-hang-ji-shu.md)
   * [Chapter23 计算机体系结构的未来](part5-ji-suan-ji-xi-tong-jia-gou-de-jin-yi-bu-you-hua/chapter23-ji-suan-ji-ti-xi-jie-gou-de-wei-lai.md)
