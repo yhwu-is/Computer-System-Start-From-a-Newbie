@@ -31,3 +31,9 @@ Hello，欢迎来到计算机系统——从小白学起！这是一本致力于
 ## 项目规范
 
 作为开源合作的中文计算机技术类书籍，本项目中写作规范应当遵守[中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/)，请在贡献前仔细阅读并核对格式。
+
+## 知识共享许可协议
+
+本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行许可。
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
