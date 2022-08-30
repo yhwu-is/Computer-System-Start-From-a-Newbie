@@ -13,6 +13,7 @@ copy-fonts = true
 # additional-css = ["custom.css", "custom2.css"]
 # additional-js = ["custom.js"]
 no-section-label = true
+site-url = "/Computer-System-Start-From-a-Newbie/"
 git-repository-url = "https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/yhwu-is/Computer-System-Start-From-a-Newbie/edit/master/{path}"
