@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+.img-wrapper {
+    text-align: center;
+}
+
+.img-comment {
+    opacity: 0.6;
+    font-size: 0.9em;
+    margin-top: 10px;
+}
+
+.table-comment {
+    text-align: center;
+    opacity: 0.6;
+    font-size: 0.9em;
+    margin-top: 10px;
+}
