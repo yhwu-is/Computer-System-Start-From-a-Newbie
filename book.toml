@@ -3,7 +3,7 @@ authors = ["yhwu-is"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "计算机系统——从小白学起"
+title = "计算机系统——从小白学起！"
 
 [output.html]
 default-theme = "light"
